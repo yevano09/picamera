@@ -18,7 +18,8 @@ To obtain credentials (i.e. API key, API secret, Access token and Access token s
 * In the next page, click on “Keys and Access Tokens” tab, and copy your “API key” and “API secret”. 
 ![APP settings](img/Appsetting.png)
 * Scroll down and click “Create my access token”, and copy your “Access token” and “Access token secret”.
-![Access Token] (img/accesstoken.png)
+
+![Access Token](img/accesstoken.png)
 ### note: YOUR APPLICATION Access Level should have :  Read, write, and direct messages permission 
 
 What things you need to install the software and how to install them
